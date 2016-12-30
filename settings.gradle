@@ -1,4 +1,5 @@
 rootProject.name = 'coderadardemo'
 include 'moduleA'
 include 'moduleB'
+include 'bullshifier'
 
