@@ -17,6 +17,7 @@ public class ClsQmebdvv
         valYktbvbcgyey.add(valDhgukvggodq);
         Set<Object> valHqdhtwlmtdw = new HashSet<Object>();
         int valGfabyytvfrf = 925;
+        int anotherMagicNumber = 42;
 
         valHqdhtwlmtdw.add(valGfabyytvfrf);
         boolean valOtufchodlwc = true;
