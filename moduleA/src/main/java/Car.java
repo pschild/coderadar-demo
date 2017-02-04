@@ -8,4 +8,10 @@ public class Car {
 			currentSpeed++;
 		}
 	}
+	
+	public void brake() {
+		if (currentSpeed > 0) {
+			currentSpeed--;
+		}
+	}
 }
